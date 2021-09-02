@@ -46,3 +46,7 @@ Follow Installation Guide.
 $ sudo docker build -t nazriya.
 $ sudo docker run nazriya
 ```
+
+## CREDITS BELONGS TO 
+
+HAMKER CAT FOR LUNA CHAT BOT.... 
